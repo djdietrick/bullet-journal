@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "dash-website-1b9cb"
+  },
+  "targets": {
+    "dash-website-1b9cb": {
+      "hosting": {
+        "journal": [
+          "bullet-journal-61f60"
+        ]
+      }
+    }
+  }
+}
