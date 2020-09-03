@@ -1,0 +1,57 @@
+// COLORS
+// $color-primary: #5068a9;
+// $color-primary-light: #76c6e6;
+// $color-primary-dark: #324e7b;
+
+$color-primary-light: #6AFFF3; 
+$color-primary: #1CBAD9;
+$color-primary-dark: #6A99FB;
+
+$color-secondary: #1a936f;
+$color-secondary-light: #88d498;
+$color-secondary-dark: #114b5f;
+
+// $color-tertiary: #dfb361;
+// $color-tertiary-light: #f5eb82;
+// $color-tertiary-dark: #d3775d;
+
+$color-tertiary: #876DFF;
+$color-tertiary-light: #B771FF;
+$color-tertiary-dark: #6A76FE;
+
+$color-warning: #FFF38E;
+$color-error:#FF886A;
+
+// $color-warning:#ff2e2eec;
+// $color-error:#d63030ec;
+
+$color-background: #141526;
+$gradient: linear-gradient(
+    to right bottom,
+    rgba($color-primary-light, 0.8),
+    rgba($color-tertiary-dark, 0.8));
+$gradient-light: linear-gradient(
+    to top,
+    rgba($color-primary-light, 0.9),
+    rgba($color-tertiary-light, 0.9));
+
+$color-grey-light-1: #f7f7f7;
+$color-grey-light-2: #eee;
+
+$color-grey-dark: #777;
+$color-grey-dark-2: #999;
+$color-grey-dark-3: #242531;
+$color-grey-dark-4: #333;
+
+$color-white: #f8f8f8;
+$color-black: #000;
+
+
+// FONT
+$default-font-size: 1.6rem;
+
+
+// GRID
+$grid-width: 114rem;
+$gutter-vertical: 8rem;
+$gutter-horizontal: 6rem;
